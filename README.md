@@ -1,5 +1,6 @@
 ## What's new with ES2015?
 
+* Working through a Code School tutorial on ES2015 features
 * Declaring variables with let
 	* Let variables are scoped to the nearest block (any code section within curly braces) and are NOT hoisted to the top of the function. They are trapped inside their respective blocks.
 	* Variables declared with let can be reassigned new values, but cannot be redeclared within the same scope.
